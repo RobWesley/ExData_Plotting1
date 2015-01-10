@@ -1,10 +1,8 @@
----
-title: "README"
-output: html_document
----
 
-Project 1 script and PNG files
-To Run:
-1) Put data file (named household_power_consumption.txt) in directory
-2) Set working directory to this directory
-3) Run scripts
+<h1>Project 1 script and PNG files</h1><br/>
+To Run:<br/>
+<ol>
+<li>Put data file (named household_power_consumption.txt) in directory</li>
+<li>Set working directory to this directory</li>
+<li>Run scripts</li>
+<ol>
